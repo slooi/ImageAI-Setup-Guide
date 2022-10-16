@@ -6,8 +6,12 @@ This is a visual, step-by-step guide on how to set up NovelAI using Google's fre
 
 ## Step 2: Create a new notebook using this github
 1) Within Google Collab, navigate to the 'Github' tab
-2) Paste the following url into the text field: https://github.com/slooi/NovelAI-Setup-Guide/blob/main/NovelAISetup.ipynb then press your enter key
-3) 'NovelAISetup.ipynb' should appear. Click on the name 'NovelAISetup.ipynb'
+2) Paste the following url into the text field: 
+
+https://github.com/slooi/NovelAI-Setup-Guide/blob/main/NovelAISetup.ipynb
+
+3) Then press your enter key
+4) Click on the newly appeared 'NovelAISetup.ipynb'
 
 
 
