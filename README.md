@@ -33,12 +33,12 @@ https://user-images.githubusercontent.com/36298969/196026005-0984e381-f056-49a4-
 
 ## Step 4: Download Files
 1) Run the first block of code by clicking the play button located on the left side of the code block (note this step will take between 5-20 minutes. Try running the block of code again if it doesn't finish within that time frame)
-2) You will get a warning from google. Click accept if you wish to run the code.
+2) You will get a warning from google. Click 'Run anyway' to continue.
 
 <img src="https://user-images.githubusercontent.com/36298969/196026238-ba4bdf96-6651-4232-990f-d78eda484801.png" width="70%">
 
 ## Step 5: Running NovelAI
-1) Run the second block of code.
+1) Run the second block of code
 2) After waiting for 1-5 minutes, a link ending with `.trycloudflare.com` should appear. Click it to navigate to your own instance of NovelAI
 
 <img src="https://user-images.githubusercontent.com/36298969/196026299-89f4de98-3e01-41f9-b4cd-b12365dc5ef8.png" width="70%">
