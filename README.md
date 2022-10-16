@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/36298969/196026005-0984e381-f056-49a4-
 2) After waiting for 1-5 minutes, a link ending with `.trycloudflare.com` should appear. Click it to navigate to your own instance of NovelAI
 
 <img src="https://user-images.githubusercontent.com/36298969/196026299-89f4de98-3e01-41f9-b4cd-b12365dc5ef8.png" width="70%">
-<img src="https://user-images.githubusercontent.com/36298969/196035509-4de9a64b-f8d1-466c-aba7-873abc1d1bc2.png" width="70%">
+<img src="https://user-images.githubusercontent.com/36298969/196035681-3ff29a4a-9fe8-4f4d-bf52-8394916f3721.png" width="70%">
 
 ## Step 6: Have Fun!
 
