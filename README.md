@@ -54,7 +54,7 @@ https://user-images.githubusercontent.com/36298969/196026005-0984e381-f056-49a4-
 
 
 ## Gotchas
-- you'll only be able to generate 20-60 images before reaching the limit of the free tier. Wait 1-3 days for it to reset.
+- You'll only be able to generate 20-60 images before reaching the limit of the free tier. Wait 1-3 days for it to reset.
 
 
 ## Credits
